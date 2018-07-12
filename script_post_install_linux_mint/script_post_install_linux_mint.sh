@@ -10,7 +10,7 @@ sudo apt-get update && sudo apt-get upgrade
 #*************************************************************************************************************
 
 #Instalación de programas*************************************************************************************
-sudo apt-get install build-essential vlc libreoffice libreoffice-l10n-es dosbox virtualbox virtualbox-qt virtualbox-dkms cmus xterm openjdk-8-jdk dopenjdk-8-jre steam unrar vim gparted synaptic mame mame-tools mame-extra mame-data htop codeblocks python3 chromium-browser chromium-browser-l10n gmusicbrowser gimp openssh-server git kazam arduino arduino-core fritzing scratch cheese kodi liferea soundconverter wget inkscape sqlite3 sqlitebrowser screenfetch python3-pip python3-tk python3-dev virtualenv 
+sudo apt-get install build-essential vlc libreoffice libreoffice-l10n-es dosbox virtualbox virtualbox-qt virtualbox-dkms cmus xterm openjdk-8-jdk dopenjdk-8-jre steam unrar vim gparted synaptic mame mame-tools mame-extra mame-data htop codeblocks python3 chromium-browser chromium-browser-l10n gmusicbrowser gimp openssh-server git kazam arduino arduino-core fritzing scratch cheese kodi liferea soundconverter wget inkscape sqlite3 sqlitebrowser screenfetch python3-pip python3-tk python3-dev virtualenv pcsx2 pcsx2-dbg pcsxr
 #*************************************************************************************************************
 
 #Configurar MAME**********************************************************************************************

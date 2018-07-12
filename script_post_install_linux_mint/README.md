@@ -41,4 +41,6 @@ screenfetch
 ClipGrab
 MySQL-Server y MySQL-Workbench
 spotify
+pcsx2
+pcsxr
 #*************************************************************************************************************
