@@ -38,6 +38,11 @@ dnf install dosbox cmus vlc htop gimp vim unrar unzip cmus gparted git cheese sc
 #herramientas basicas para desarrollar en python
 dnf install vim python3 python3-devel python3-tkinter python3-pip python3-virtualenv
 
+#Web server en Fedora
+dnf groupinstall "Web Server"
+systemctl start httpd
+systemctl enable httpd
+
 #motor mariaDB
 dnf install mariadb mariadb-server
 #iniciar por primera vez
